@@ -3,7 +3,7 @@
 This an extension of the https://bashbunny.com/downloads upgrade guide.
 
 Upgrade Bash Bunny Firmware on Ubuntu/Debian – Noob Guide [12/07/17]
-1.	Download the latest version of the Bash Bunny firmware from https://bashbunny.com/downloads
+1.	Download the latest version of the Bash Bunny firmware from https://bashbunny.com/downloads<br>
     •	Example: ch_fw_1.3_264_tar.gz file
     
 2.	Verify that the SHA256 checksum of the downloaded firmware files matches the checksum listed at https://bashbunny.com/downloads
