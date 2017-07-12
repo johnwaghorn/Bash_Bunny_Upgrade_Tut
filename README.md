@@ -1,4 +1,4 @@
-# BashBunny-Upgrade-tut
+# Bash_Bunny_Upgrade_Tut
 
 <b>Upgrade Bash Bunny Firmware on Ubuntu/Debian – Noob Guide [12/07/17]</b>
 
